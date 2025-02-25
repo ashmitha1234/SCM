@@ -12,6 +12,5 @@ void main(){
 	else{
 		printf("Enter the correct choice\n");
 	}
-	return 0;
 }
 
