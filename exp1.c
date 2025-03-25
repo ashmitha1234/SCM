@@ -11,9 +11,9 @@ int main(){
 			printf("You selected BTEch(Artificial Intelligence and Machine Learning).\n");
 		case 3:
 			printf("You selected Electronics and Communication.\n");
-
-
-		}
+		case 4:
+			printf("You selected Btech(Mechanical).\n");
+	}
         return 0;
 }
 
