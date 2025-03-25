@@ -7,6 +7,9 @@ int main(){
 	{
 		case 1: 
 			printf("You selected Computer Science (CS).\n");
+		case 2: 
+			printf("You selected BTEch(Artificial Intelligence and Machine Learning).\n");
+
 		}
         return 0;
 }
